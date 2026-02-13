@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-09'
+  last_updated: '2026-02-13'
 papers:
   sNpQ-dgAAAAJ:-FonjvnnhkoC:
     citations: 33
@@ -306,7 +306,7 @@ papers:
     title: -meson semileptonic decays to pseudoscalars from four-flavor lattice QCD
     year: '2023'
   sNpQ-dgAAAAJ:S16KYo8Pm5AC:
-    citations: 76
+    citations: 77
     title: Prospects for precise predictions of  in the Standard Model
     year: '2022'
   sNpQ-dgAAAAJ:SeFeTyx0c_EC:
@@ -394,7 +394,7 @@ papers:
     title: Snowmass theory frontier report
     year: '2022'
   sNpQ-dgAAAAJ:YsMSGLbcyi4C:
-    citations: 107
+    citations: 106
     title: Light  bosons at the Tevatron
     year: '2011'
   sNpQ-dgAAAAJ:Z5m8FVwuT1cC:
@@ -538,7 +538,7 @@ papers:
     title: Chiral transition of su (4) gauge theory with fermions in multiple representations
     year: '2018'
   sNpQ-dgAAAAJ:hMsQuOkrut0C:
-    citations: 2015
+    citations: 2018
     title: The anomalous magnetic moment of the muon in the Standard Model
     year: '2020'
   sNpQ-dgAAAAJ:iH-uZ7U-co4C:
@@ -590,7 +590,7 @@ papers:
     title: Two-Color Gauge Theory with Novel Infrared Behavior
     year: '2014'
   sNpQ-dgAAAAJ:lmc2jWPfTJgC:
-    citations: 45
+    citations: 46
     title: 'Lepton-flavor-violating ALPs at the Electron-Ion Collider: a golden opportunity'
     year: '2023'
   sNpQ-dgAAAAJ:mB3voiENLucC:
@@ -598,7 +598,7 @@ papers:
     title: 'Infrared monitoring of the microquasar GRS 1915+ 105: detection of orbital and superhump signatures'
     year: '2007'
   sNpQ-dgAAAAJ:mNrWkgRL2YcC:
-    citations: 137
+    citations: 125
     title: 'The anomalous magnetic moment of the muon in the Standard Model: an update'
     year: '2025'
   sNpQ-dgAAAAJ:mVmsd5A6BfQC:
