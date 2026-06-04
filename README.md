@@ -19,7 +19,8 @@ You can find my published work through my author pages:
 
 Some of my lecture notes are available as GitHub Pages:
 
-- [Classical mechanics](https://etneil.github.io/phys2210_lec_notes) (PHYS 2210)
+- [Classical mechanics](https://etneil.github.io/class_mech_notes) (PHYS 2210 and 3210)
+  - An earlier, frozen version of just my PHYS 2210 notes alone can be found [in this separate repository](https://etneil.github.io/phys2210_lec_notes).
 - [Graduate quantum mechanics](https://etneil.github.io/grad_qm_lec_notes) (PHYS 5250 and 5260)
 
 My lecture notes are authored using [Quarto](https://quarto.org).  I wrote some older sets of lecture notes that were hosted at CU
